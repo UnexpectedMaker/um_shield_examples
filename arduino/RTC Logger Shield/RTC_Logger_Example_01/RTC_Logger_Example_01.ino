@@ -14,7 +14,7 @@
  * 2024 Unexpected Maker
  */
 
-#include <RV3028C7.h>
+#include <RV3028C7.h> //Library Manager or https://github.com/MacroYau/RV-3028-C7-Arduino-Library
 #include "FS.h"
 #include "SD.h"
 #include "SPI.h"
